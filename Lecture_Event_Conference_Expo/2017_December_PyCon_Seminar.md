@@ -26,7 +26,8 @@
 
 ### 스타트업 인턴 개발자, 2달간의 고분군투기 (김은향님)
 <img src ="https://i.imgur.com/WditG1D.jpg">
-_helo world_
+*helo world*
+
 ### 작은 스타트업에서 머신러닝 맛보기 (박민우님)
 
 # 라이트닝 토크
