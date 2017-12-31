@@ -11,17 +11,14 @@
 # 파이콘 APAC후기 (김애영님 외 1인)
 
 # 일반 세션
----
 ## 애저 Functions을 활용한 파이썬 크롤링 스케줄링 (이진석님)
 ## 스타트업 인턴 개발자, 2달간의 고분군투기 (김은향님)
 ## 작은 스타트업에서 머신러닝 맛보기 (박민우님)
 
 # 라이트닝 토크
----
 ## Django, Whick is better between FBV and CBV? (김석훈님)
 ## Dream of SELO in the Hello World (이새로찬님)
 ## DjangoCon Korea 라는 꿈을 꾸었다 (강명서님)
 ## 파이썬으로 다시 개발자로 돌아온 사연 (박민우님)
 
 # 네트워킹 타임
----
