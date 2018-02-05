@@ -6,18 +6,20 @@
 
 1. [Overview] Serverless Computing 친해지기 (한국오라클 김종규 컨설턴트)
 <img src="https://imgur.com/sFqmaS3.jpg">
-: 서버에 대해서 전혀 알 필요가 없는 Serverless의 개념과 사용법을 오라클의 Serverless 오픈소스인 Fn Project를 통해서 알아봅니다. Docker를 기반으로 운영되는 오픈소스인 Fn Project를 통해 Serverless Computing을 시작할 수 있습니다.
+ 서버에 대해서 전혀 알 필요가 없는 Serverless의 개념과 사용법을 오라클의 Serverless 오픈소스인 Fn Project를 통해서 알아봅니다. Docker를 기반으로 운영되는 오픈소스인 Fn Project를 통해 Serverless Computing을 시작할 수 있습니다.
 
 2. [Special Session] 개발자를 위한 JavaOne 2017 업데이트 2탄 - Enhancement 중심으로 (양수열 Java Champion, Oracle ACE)
 <img src="https://imgur.com/Jej1wQC.jpg">
-: JavaOne과 Oracle OpenWorld 참관을 통해, 개발자 컨퍼런스를 더욱 즐겁게 즐길 수 있는 팁을 공유하고,
+ JavaOne과 Oracle OpenWorld 참관을 통해, 개발자 컨퍼런스를 더욱 즐겁게 즐길 수 있는 팁을 공유하고,
 지난 시간에 이어, 다루지 않았던 Java 9 기능과 issue에 대해 좀 더 심도있게 다룹니다.
 
 3. [Hands-On] Fn Project를 이용한 Serverless Computing 실습 (한국오라클 김종규 컨설턴트)
 <img src="https://imgur.com/4wz6A5f.jpg">
-: Docker 기반의 Serverless 개발 플랫폼인 Fn Project를 통해 Serverless Computing의 처음 단계를 시작해봅니다. 로컬 뿐 아니라 클라우드에서 동일한 개발 환경을 제공하며 Java, Go, Node, Python 등 여러 언어를 모두 지원합니다. 시작은 작게, 운영은 거대하게 하기 위한 첫 발걸음을 같이 내딛어봅니다.
+ Docker 기반의 Serverless 개발 플랫폼인 Fn Project를 통해 Serverless Computing의 처음 단계를 시작해봅니다. 로컬 뿐 아니라 클라우드에서 동일한 개발 환경을 제공하며 Java, Go, Node, Python 등 여러 언어를 모두 지원합니다. 시작은 작게, 운영은 거대하게 하기 위한 첫 발걸음을 같이 내딛어봅니다.
 
 4. 네트워킹 시간
 밋업을 마치고 각 테이블에 피자와 코카콜라, 그리고 맥주가 제공되어 피자를 먹으면서 주변 사람들과 대화할 수 있는 시간을 가졌다.
 
 후기
+이번 밋업에서 서버리스에 대한 개념과 실습이 많이 어려울 것 같았지만 생각보다 입문자입장에서 듣기 쉬웠다. 비록 자바 세션에선 조금 난이도가 있었지만 발표자분들께서 입문자부터 전문가까지 서버리스에 대해 아는 사람부터 모르는 사람까지 모두 이해할 수 있도록 정성과 노력을 많이 들인 것 같았다.
+그리고 오라클사에서도 개발자들을 위해 관련된 지원과 최신 기술을 습득할 수 있는 기회를 만들어줘서 매우 좋았고 앞으로도 비슷한 세미나가 있으면 참석할 의향을 밝히고 싶다.
